@@ -1,0 +1,10 @@
+*
+!.gitignore
+!zsh/
+!zsh/.zshrc
+!tmux/
+!tmux/*
+!yabai/
+!yabai/*
+!skhd/
+!skhd/*
